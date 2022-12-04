@@ -2,6 +2,7 @@
 <h3 align="center">A Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raeddayah&label=Profile%20views&color=0e75b6&style=flat" alt="raeddayah" /> </p>
+
 - 🌱 I’m currently learning **machine learning , vuejs , nuxtjs**
 
 - 💬 Ask me about **nodejs , nestjs and expressjs , angular**
